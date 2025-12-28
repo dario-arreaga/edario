@@ -17,7 +17,7 @@ export default function HomePage() {
               Servicio técnico profesional
             </p>
             <h1 className="text-3xl md:text-4xl font-bold mb-4">
-              Reparación de electrónica y computación en Guayaquil.
+              Reparación de electrónica y computación en Milagro.
             </h1>
             <p className="text-slate-300 text-sm md:text-base mb-6">
               En <span className="font-semibold">Electrónica Darío</span> reparamos
